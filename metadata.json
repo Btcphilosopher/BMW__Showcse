@@ -1,0 +1,6 @@
+{
+  "name": "BMW Showcase",
+  "description": "An elegant, responsive showcase page based on the BMW Germany design, featuring premium vehicle configurations, electric model overviews, and high-end automotive media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
